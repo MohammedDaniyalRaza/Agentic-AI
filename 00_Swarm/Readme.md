@@ -40,6 +40,13 @@ It allows developers to:
 
 ---
 
+## Anthropic 
+
+
+[Anthropic](https://www.anthropic.com) is an AI research company focused on building safe and helpful AI systems.  
+They introduced **five key design patterns** that are also supported by the OpenAI Agents SDK that's why SDK is more **advanced and effective** than the original Swarm.
+
+
 ## 🧩 Anthropic Design Patterns – Easy Overview
 
 These are **common strategies** used to build smart AI systems.  
@@ -57,7 +64,7 @@ Each step builds on the result of the previous one.
 ---
 
 ### 2. 🔀 Routing  
-Send each task to the most suitable agent.
+Send each task to the most suitable agent/Transfer the task to the right agent who can handle or perform that task.
 
 **Example:**  
 - Billing questions → Billing Agent  
