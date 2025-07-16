@@ -30,8 +30,8 @@ If the General Agent sees a billing question, it hands off the task to the Billi
 
 ## 🛠️ What is the Agents SDK?
 
-Swarm was an experimental idea.  
-Now, OpenAI has built a **production-ready tool** based on it called the **Agents SDK**.
+Swarm was an experimental idea/testing frame work 
+Now, OpenAI has built a **production-ready tool** based on it called the **Agents SDK**, SDK is Updated version of Swarm.
 
 It allows developers to:
 - Build real-world multi-agent systems  
