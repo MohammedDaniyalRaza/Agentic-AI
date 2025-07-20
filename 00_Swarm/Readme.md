@@ -94,6 +94,30 @@ One main agent (the orchestrator) breaks the task into pieces, and the others (w
 ### 5. 🧪 Evaluator-Optimizer Pattern  
 An evaluator agent checks the quality of other agents' work and suggests improvements.
 
+## 🔚 Why OpenAI Moved On from Swarm
+
+Swarm was an experimental framework, mostly used for internal testing and research.
+While it showed great potential, it lacked production-level tools and flexibility developers needed.
+
+That’s why OpenAI discontinued active development on Swarm, and instead introduced a more powerful and flexible solution the Agents SDK.
+
+## 🛠️ What is the Agents SDK?
+
+The Agents SDK is the official production-ready version of Swarm.
+It is more stable, modular, and supports real-world applications.
+
+It allows developers to:
+
+Build real-world multi-agent systems
+
+Coordinate agent workflows
+
+Manage tasks with better control and structure
+
+💡 Note: I will cover the Agents SDK in Step 4, in a separate repository.
+👉 Right now, this is Step 0, focused on explaining Swarm and the foundation concepts.
+
+
 ---
 
 ## 📌 Summary
@@ -103,4 +127,8 @@ An evaluator agent checks the quality of other agents' work and suggests improve
 - **Handoffs** let agents pass tasks to each other.  
 - **Agents SDK** is the upgraded, real-world tool to build agent systems.  
 - **Anthropic Patterns** are smart ways to design these systems.
+- **Swarm was experimental** now replaced by Agents SDK.
+- **Agents SDK** is production ready and supports smart design patterns.
+📂 Step 4 (coming soon): SDK Concepts!
+
 
