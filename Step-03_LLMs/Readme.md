@@ -38,6 +38,8 @@ Fine-tuning is the process of taking a pre-trained Large Language Model and trai
 
 LLMs are advanced AI models that understand and generate natural language.  
 They play a crucial role in modern AI applications like chatbots, content creation, and real-time translation.
+Fine-tuning is a process that enhances the performance of LLMs on specific tasks or domains by training them on domain-specific data.
+Fine-tuning improves accuracy, reduces hallucinations, and makes the model more personalized and relevant for users or businesses.
 
 ---
 
