@@ -10,3 +10,9 @@ Agents are autonomous programs design to perform specific tasks independently. E
 - Another answer genral Questions
 
 
+## Qualities of Agents
+
+* Autonomy: These agents work independently without human assistance
+* Specialization: Each agents is an expert in specific Task
+* Interectivity: Agents Communicate with other agents or user to complete task
+
