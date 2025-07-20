@@ -17,6 +17,23 @@ They learn language patterns from massive datasets like books, websites, and con
 
 ---
 
+### 🛠️ in LLMs What is Fine-Tuning?
+
+Fine-tuning is the process of taking a pre-trained Large Language Model and training it further on a **specific dataset** to make it better suited for a **particular task or domain**.
+
+👉 For example:
+- A general LLM can be fine-tuned to become a **medical assistant**, **legal advisor**, or even a **coding helper** like GitHub Copilot.
+
+### 🧠 Why Fine-Tuning?
+
+- It **improves accuracy** on domain-specific tasks.  
+- It **reduces hallucinations** (wrong answers) in sensitive fields like healthcare or law.  
+- It makes the model **more personalized and relevant** for users or businesses.
+
+---
+
+
+
 ### 🧠 Summary
 
 LLMs are advanced AI models that understand and generate natural language.  
